@@ -1,0 +1,88 @@
+Cluster (6 conjunctions, 5 planets):
+Planets: Earth, Jupiter, Mercury, Saturn, Sun
+Time Window: 2000-05-08, 04:13:38 to 2000-05-09, 20:04:43
+Earth-Sun-Jupiter 2000-05-08, 04:13:38 47°53'09"
+Earth-Mercury-Jupiter 2000-05-08, 18:46:32 48°01'48"
+Sun-Mercury-Jupiter 2000-05-09, 00:09:15 47°57'39"
+Mercury-Sun-Earth 2000-05-09, 03:36:16 228°49'40"
+Sun-Mercury-Saturn 2000-05-09, 09:49:08 50°23'43"
+Earth-Mercury-Saturn 2000-05-09, 20:04:43 50°19'10"
+
+M 7.2 Argentina, 2000-05-12, 18:43:18
+
+
+Cluster (8 conjunctions, 8 planets):
+Planets: Earth, Jupiter, Mars, Mercury, Neptune, Sun, Uranus, Venus
+Time Window: 2003-08-20, 20:12:46 to 2003-08-22, 16:15:22
+Sun-Venus-Jupiter 2003-08-20, 20:12:46 148°45'14"
+Earth-Venus-Jupiter 2003-08-21, 10:17:06 148°39'35"
+Venus-Sun-Mars 2003-08-22, 01:20:03 330°43'33"
+Venus-Sun-Uranus 2003-08-22, 01:53:16 330°45'48"
+Venus-Mars-Uranus 2003-08-22, 02:17:08 330°45'52"
+Sun-Mars-Uranus 2003-08-22, 02:45:58 330°45'50"
+Earth-Sun-Jupiter 2003-08-22, 10:12:36 148°52'38"
+Venus-Mercury-Neptune 2003-08-22, 16:15:22 312°17'59"
+
+M 7.2 New Zealand, 2003-08-21, 12:12:49
+
+
+Cluster (7 conjunctions, 6 planets):
+Planets: Earth, Mercury, Neptune, Saturn, Sun, Venus
+Time Window: 2007-08-13, 18:10:55 to 2007-08-15, 11:44:35
+Sun-Earth-Neptune 2007-08-13, 18:10:55 320°31'13"
+Earth-Venus-Saturn 2007-08-13, 18:59:01 147°23'13"
+Mercury-Earth-Neptune 2007-08-14, 19:54:54 320°29'28"
+Mercury-Sun-Venus 2007-08-15, 10:11:00 320°25'41"
+Mercury-Sun-Neptune 2007-08-15, 10:39:05 320°31'50"
+Mercury-Venus-Neptune 2007-08-15, 11:05:25 320°31'54"
+Sun-Venus-Neptune 2007-08-15, 11:44:35 320°31'51"
+
+M 8.0 Peru, 2007-08-15, 23:40:57
+
+
+Cluster (6 conjunctions, 8 planets):
+Planets: Earth, Jupiter, Mars, Mercury, Neptune, Saturn, Sun, Venus
+Time Window: 2010-03-07, 20:32:15 to 2010-03-09, 08:04:15
+Mercury-Sun-Mars 2010-03-07, 20:32:15 146°00'16"
+Sun-Mercury-Neptune 2010-03-07, 21:26:28 326°08'46"
+Mars-Mercury-Neptune 2010-03-07, 23:35:42 326°08'31"
+Earth-Mercury-Jupiter 2010-03-08, 01:39:54 341°26'10"
+Mars-Sun-Neptune 2010-03-08, 04:23:23 326°08'52"
+Venus-Earth-Saturn 2010-03-09, 08:04:15 182°07'16"
+
+M 7.0 Chile, 2010-03-11, 14:55:27
+
+
+Cluster (6 conjunctions, 8 planets):
+Planets: Earth, Jupiter, Mars, Mercury, Saturn, Sun, Uranus, Venus
+Time Window: 2010-06-08, 11:07:33 to 2010-06-09, 17:28:51
+Earth-Jupiter-Uranus 2010-06-08, 11:07:33 0°08'47"
+Venus-Sun-Jupiter 2010-06-08, 19:42:57 348°41'20"
+Mercury-Mars-Saturn 2010-06-08, 19:53:17 183°08'03"
+Venus-Mercury-Jupiter 2010-06-09, 04:45:06 348°47'45"
+Sun-Mercury-Jupiter 2010-06-09, 09:48:48 348°44'32"
+Mercury-Sun-Venus 2010-06-09, 17:28:51 170°09'37"
+
+M 7.5 Nicobar Islands, India Region, 2010-06-12, 19:26:50
+
+
+Cluster (6 conjunctions, 7 planets):
+Planets: Earth, Jupiter, Mars, Mercury, Saturn, Sun, Venus
+Time Window: 2019-07-08, 13:09:34 to 2019-07-09, 16:54:00
+Venus-Sun-Jupiter 2019-07-08, 13:09:34 261°26'48"
+Venus-Mercury-Jupiter 2019-07-08, 16:44:19 261°29'10"
+Sun-Mercury-Jupiter 2019-07-08, 19:17:30 261°28'02"
+Earth-Mercury-Mars 2019-07-08, 22:07:31 124°09'39"
+Mercury-Sun-Venus 2019-07-09, 03:33:00 82°24'51"
+Sun-Earth-Saturn 2019-07-09, 16:54:00 286°56'40"
+
+M 7.1 California, 2019-07-06, 03:19:53
+M 6.9 Indonesia, 2019-07-07, 15:08:40
+M 7.2 Indonesia, 2019-07-14, 09:10:51
+
+
+Found clusters: 6
+Valid clusters: 6
+Average conjunctions per found cluster: 6.5
+Average conjunctions per valid cluster: 6.5
+
